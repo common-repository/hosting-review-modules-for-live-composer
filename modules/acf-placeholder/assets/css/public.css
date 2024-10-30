@@ -1,0 +1,32 @@
+/**
+ * Sorting arrows
+ * @start
+ */
+table tr th .sorting-arrows {
+    padding-right: 18px;
+    position: relative;
+    width: 100%;
+    display: block;
+}
+
+table tr th .sorting-arrows:before,
+table tr th .sorting-arrows:after {
+    border: 4px solid transparent;
+    content: "";
+    display: block;
+    height: 0;
+    right: 5px;
+    top: 50%;
+    position: absolute;
+    width: 0;
+}
+
+table tr th .sorting-arrows:before {
+    border-bottom-color: #666;
+    margin-top: -9px;
+}
+
+table tr th .sorting-arrows:after {
+    border-top-color: #666;
+    margin-top: 1px;
+}

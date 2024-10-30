@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-03 17:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: modules/acf-placeholder/module.php:93
+msgid "Custom Label Class"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:100
+msgid "Custom Value Class"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:107
+msgid "Custom Title Class"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:114
+msgid "Custom Title"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:121
+msgid "Advanced Custom Field"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:126
+msgid "Select Post field to display"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:134
+msgid "Label"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:148
+msgid "Should the label be visible for the field?"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:167
+msgid "URL specific"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:171
+msgid "Wrap image with url"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:185
+#: modules/acf-placeholder/module.php:194
+msgid "Image specific"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:189
+msgid "Image size"
+msgstr ""
+
+#: modules/acf-placeholder/module.php:1416
+msgid ""
+"If you are using this module in template, then assign template to post_type."
+msgstr ""
+
+#: modules/acf-placeholder/module.php:1417
+msgid "Please select the field which content you want to display."
+msgstr ""
+
+#. Name of the plugin
+msgid "Hosting Review Modules for Live Composer"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds a list of modules for live composer, first of which is ACF Placeholder, "
+"which allows to output Advanced Custom Fields data to frontend."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://hosting.review"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hosting Review Team"
+msgstr ""
